@@ -40,5 +40,16 @@ Author
 Ruchika Verma
 
 
+Demonstration Video
+A demonstration of the elevator control system is available here:
+
+                                          https://youtube.com/shorts/ZqxBHt_fibA?feature=share
+
+
+
+
+
+
+
 NOTE: Source code and implementation files are not publicly distributed. This repository is intended to showcase the project architecture, methodology, verification activities, and results.
 
