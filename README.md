@@ -39,3 +39,6 @@ Author
 
 Ruchika Verma
 
+
+NOTE: Source code and implementation files are not publicly distributed. This repository is intended to showcase the project architecture, methodology, verification activities, and results.
+
